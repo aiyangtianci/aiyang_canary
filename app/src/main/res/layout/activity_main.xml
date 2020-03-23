@@ -110,6 +110,7 @@
                         android:text="六" />
                 </LinearLayout>
 
+
                 <com.example.aiyang.aiyang.SquareGridView
                     android:id="@+id/registration_calendar_gv"
                     android:layout_width="match_parent"
